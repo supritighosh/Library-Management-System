@@ -1,4 +1,4 @@
-# Library Management System 
+## Library Management System 
 
 It is a web service based application where the list of books can be saved in the database. People can login and can read books and can alsohire or purchase books. 
 
